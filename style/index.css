@@ -11,7 +11,7 @@ body {
 header {
   margin-bottom: 100px;
   min-height: 800px;
-  background-image: url(/img/headerbackground.png), linear-gradient(225deg, #7e5aff 16.9%, #55b7ff 83.27%);
+  background-image: url(../img/headerbackground.png), linear-gradient(225deg, #7e5aff 16.9%, #55b7ff 83.27%);
   background-size: cover;
   margin: 100;
 }
@@ -470,7 +470,7 @@ h3 {
 }
 
 .news {
-  background-image: url(/img/newsbackground.png), linear-gradient(225deg, #24ccfa 11.16%, #3c7fd4 89.18%);
+  background-image: url(../img/newsbackground.png), linear-gradient(225deg, #24ccfa 11.16%, #3c7fd4 89.18%);
   height: 1035px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -834,7 +834,7 @@ h3 {
           box-sizing: border-box;
   position: absolute;
   top: 400px;
-  background-image: url(/img/contactbackground.png);
+  background-image: url(../img/contactbackground.png);
   background-repeat: no-repeat;
   background-position: bottom;
   background-color: #ffffff;
@@ -982,7 +982,7 @@ input.error {
   max-width: 1600px;
   margin: auto;
   height: 549px;
-  background-image: url(/img/footerbackground.png), linear-gradient(225deg, #7e5aff -2.19%, #55b7ff 103.21%);
+  background-image: url(../img/footerbackground.png), linear-gradient(225deg, #7e5aff -2.19%, #55b7ff 103.21%);
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
